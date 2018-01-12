@@ -1,6 +1,6 @@
 # Unsupervised-Pseudo-Multi-sense-Elimination
 
-This is part of the code implementation for our submission ``Improving Multi-sense Word Embedding via Unsupervised Pseudo Sense Detection and Elimination'' to IJCNLP2017.
+This is part of the code implementation for our paper ``Constructing High Quality Sense-specific Corpus and Word Embedding via Unsupervised Elimination of Pseudo Multi-sense'' published in LREC 2018.
 
 ### Python Dependencies
 ```txt
